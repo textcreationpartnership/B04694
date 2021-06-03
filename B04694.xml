@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of the Protestants in France to their king upon account of the treaty of peace.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04694</idno><idno type="EEBO-CITATION">53299209</idno>
+  <idno type="VID">179949</idno>
+  <idno type="EEBO-PROQUEST">2240888170</idno>
+  
+            <idno type="STC">Wing P1829</idno>
+            <idno type="STC">ESTC R181726</idno>
+            <idno type="OCLC">53299209</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B04694)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179949)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2808:54)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of the Protestants in France to their king upon account of the treaty of peace.</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh, :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Irregular pagination: numbered 5, 6, 3, 4, 7.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Huguenots --  Doctrines --  Early works to 1800.</term>
+               <term type="topical_term">Religious tolerance --  France --  Early works to 1800.</term>
+               <term type="topical_term">Freedom of religion --  France --  Early works to 1800.</term>
+               <term type="geographic_name">France --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179949:1"/>
+            <p> THE PETITION OF THE PROTESTANTS IN FRANCE TO THEIR KING Upon Account of the TREATY OF PEACE</p>
+            <p>
+               <hi>LONDON</hi> printed, and re-printed at <hi>EDINBURGH,</hi> 1697.</p>
+            <pb facs="tcp:179949:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="3" facs="tcp:179949:3"/>
+            <head>A PETITION <hi>presented to the King of</hi> France. <hi>By the Protestants in his Kingdom, who have been formerly constrain'd to embrace the Roman Religion.</hi>
+            </head>
+            <head type="sub">To the KING.</head>
+            <opener>
+               <salute>SIR.</salute>
+            </opener>
+            <p>YOur Subjects, who profess a Religion which the Edicts cal the <hi>Pretended Reformed,</hi> and of which you have forbid 'em the publick Exercise for some Years, come to throw them<g ref="char:EOLhyphen"/>selves at Your Majesty's Feet, to make known to Your Majesty their humble Remonstrances, and to implore Your Compassion upon their Miseries, which are so dreadful, that your Majesty cannot cast Your Eyes upon their deplorable Condition, without some Pity up<g ref="char:EOLhyphen"/>on their Sufferings. Your Majesty, Sir, has always made it Your chief Glory to stop the Progress of Your Arms, and to suspend the Course of Your Victories, in order to give Peace to <hi>Europe.</hi> Must Your own Subjects, who never violated the Fidelity which they owe You, and which the Religion that they profess enjoyns 'em to pay You, be the only Persons that are to be depriv'd of Your Royal Bounty? What have they done, and of what deformed Colours have their Enemys made use of, to black'n 'em in Your Majesty's Eyes?</p>
+            <p>They are perswaded, that next to their Duty to God, they are oblig'd to pay Your Majesty an unlimited Obedience. They know no person upon Earth who can absolve 'em from that Fidelity which is Your due. To Fear God and Honour Your Majesty, to spend their Estates and Lives in Your Service, this among them is an inivolable Maxim which they take care to inculcat into their Children. No Troubles of the preceeding Reigns can be imputed to them without the highest Injustice▪ Your Majesty is too clear<g ref="char:EOLhyphen"/>sighted, and Your Council too penetrating, not to be well satify'd that those Commotions were caus'd either by Princes, lawful Heirs to the Crown which they transmitted to Your Majesty, in defending it against those who attempted to usurp it, or by some Grandees o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Kingdom, who never want Pretences, especially when they have con<g ref="char:EOLhyphen"/>ceiv'd an Opinion, that a Chief Minister abuses the Authority of his Prince. In a word, since Your Majesty ascended the Throne, and took the Reins of Government into Your own Hands, Your Sup<g ref="char:EOLhyphen"/>plicants never departed from their Duty. They can also boast the Approbation wherewith your Majesty has honour'd their Fidelity, which has always been firm and constant, tho' they were power<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ully
+<pb n="4" facs="tcp:179949:4"/> sollicited in the time of Your Majesty's Minority, whose undoube<g ref="char:EOLhyphen"/>ed Right they have always held Inviolable and Sacred.</p>
+            <p>We make no question, Sir, but that we have been painted forth to Your Majesty, too much taken up with publick Affairs, throughly to understand our Religion, as a sort of People whom a pure Spirit of Limbertinism held engag'd in our Profession, and who would quit it without any Trouble or Remorse, so soon as they should be<g ref="char:EOLhyphen"/>hold it beset with Thorns, and environ'd with dreadful Calamities and Torments, by the multitude of Edicts and Declarations which they wrested in a manner out of Your Majesty's Hands. But we implor Your Majesty, Sir, by that Royal Goodness which causes the Repose of Your Subjects, to reflect at present upon the Counsels which have been given Your Majesty, and upon this pretended Liberti<g ref="char:EOLhyphen"/>nism, with which they have disfiguted us in Your Majesty's sight. They can never say, that a Spirit of Libertinism could oblidge so many Thousand persons to quit their Countrey, a Country full of all manner of Blessings, to beg their Bread among Foreigners, to expose themselves to the danger of being confin'd to Prisons, Clois<g ref="char:EOLhyphen"/>rers, or sent to the Galleys, as some have been of all Conditions and Characters. Of necessity, Sir, the Power of Conscience must be very great that can prevail with Men to undergo such Extre<g ref="char:EOLhyphen"/>mities.</p>
+            <p>'Tis true, that if a Conscience ignorant and prejudic'd by false principles should engage in Crimes that troubl'd the Repose of Society, Your Majesty had reason to suppress the Licenciousness of a Turbulent and Criminal Conscience. But, Sir, we are convinc'd that our greatest Enimies can lay no such thing to our Charge Out Morals are pure, and without Reproach, in respect of God in respect of Your Majesty, and in respect of Society. As for our Doctrine, of what Error can they convict it? We admit the Sym<g ref="char:EOLhyphen"/>bols of Faith compos'd by the first Occumenic Councils, &amp; the Sym<g ref="char:EOLhyphen"/>bol or Creed which is call'd the Apostles. We believe in one God Father, Son, and Holy Ghost. We believe our selves redeem'd by the Sacrifice of Jesus Christ our God and Redeemer, provided we partake of the Merits of his Death and Sufferings, by a lively Faith, operating in good Works, and by a sincere Repentance. We admit in the Holy <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ucharist, a Spiritual Eating of the Flesh of Jesus Christ. We Baptize in the Name of the Father, Son, and Holy Ghost, for the Remission of Sins. We invoke the Almighty in the Name of Jesus Christ, and by his Intercession, as he com<g ref="char:EOLhyphen"/>manded us. This, Sir, is the substance of our Religion. Your Doctors agree upon all these Articles, and admit 'em as we do.</p>
+            <pb n="5" facs="tcp:179949:2"/>
+            <p> We cannot adore the Sacrament of the Eucharist, and it cannot be deny'd but that we should be Idolators if we should adore it, con<g ref="char:EOLhyphen"/>sidering the Opinions which we hold; so that no body can constrain us to do it, without forcing us to commit the greatest of Crimes. We implore Your Majesty to think of it. Pardon us, Sir, if we speak freely to Your Majesty upon the Subject of our Tears and Groans. We are not, Sir, whatever Name they they give us; we are not those ancient Hereticks against whom the Church has justly fulminated, because they had nothing <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut the Name of Christian, which they dishonour'd as well by the Monstrousness of their Doctrine, as the Impurity of their Morals, If we refuse to believe the Doctrine of Purgatory and Indulgences, the Invocation of Saints, the worship of Images, the Veneration of Relicks; and those other petty Devotions, invented by the Monks in the Later Ages, 'tis because those points are not to be found in the Holy Scripture, and we believe we cannot admit 'em with asafe Conscience upon the warrant of Humane Authority.</p>
+            <p>We speak Sir of Humane Authority; for we are convinc'd, that if God had been pleas'd to erect a visible Tribunal upon Earth, to which we should submit our Consciences in Matters of Religion, this infalible Tribunal would without all contradiction, have been so characteriz'd, that it would have been an easie thing to have known it. It highly concern'd the Safety and Repose of the Con<g ref="char:EOLhyphen"/>sciences of the Faithful. Now Your Majesty well knows, that e<g ref="char:EOLhyphen"/>ven in your own Communion, this Tribunal is a thing contested be<g ref="char:EOLhyphen"/>tween the Peope and the Councils. All the Doctors of Your King<g ref="char:EOLhyphen"/>dom decide it in favour of the Councils. All the Doctors of <hi>Italy</hi> and many others hold for the Pope. The Difficulties alledg'd on Both sides are so considerable that not being able with that Certain<g ref="char:EOLhyphen"/>ty which the Faith requires, to find out this infallible Tribunal, we believe it the fasest way to follow the Word of God only, for the Rule of Faith. And to us it seems that our Conduct has nothing in it of that Obstinacy which makes People Herrticks according to the Cannons of the Church.</p>
+            <p>We pray to God. Sir, for the long Continuance and Prosperity of Your Majesty's Reign; but after all, Your Majesty is not Im<g ref="char:EOLhyphen"/>mortal. It may be, Sir, that upon the Bed of Death, perhaps Your Majesty then may come to be touch'd with some Apprehensions of of Fear and Compunction, for having constrain'd the Consciences of Your Subjects who still give Your Majesty an Account of their Faith with all Obedience and Respect, whenever you requir'd it from them. For the sake of the Almighty, Sir, we implore Your
+<pb n="6" facs="tcp:179949:3"/> Maiesty to consider, that perhaps at the last Moments of Your Life, the dreadful Calamities of so great a Number of Your Sub<g ref="char:EOLhyphen"/>jects, into which the Malice of People, counterfiting Devotion, have engag'd Your Majesty to precipitate them, may come to pre<g ref="char:EOLhyphen"/>sent themselves before Your Eyes, and trouble the Repose of Your Soul. For in a word, Sir; permit us to speak it once more, what have we done to merit the drawing of Your Indignation upon us? Tho' our Religion were false; Your Majesty by sending Your Teachers among us to instruct us, has done all that God requires from a Christian Prince, without any Obligation that Piety laid u<g ref="char:EOLhyphen"/>pon You, to revoke Your Word and your Edicts. The same God who Ordains us to labour the Salvation of our Neighbours forbid<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> us to force the Conscience and constrain men to turn Hypocrites whether they will or no We can hardly believe that the Violen<g ref="char:EOLhyphen"/>ces which have been offer'd us e'er came to the knowledge of your Majesty, or that You would endure that the History of Your Glori<g ref="char:EOLhyphen"/>ous Reign shall be clouded with the Relations of them, and that ever it should be said, that You persecnted Your most faithful Sub<g ref="char:EOLhyphen"/>jects, because they desir'd to worship God according to his Word, and the Motions of their Consciences, without any other Defect in their Duty. For these several Years that we have suffer'd, we have carefully examin'd our Religion. We can also say, tho' it should prove to our Shame, that we have examin'd it with a secret Desire to meet with Errors in it, that we might be free to follow Your Majesty's Order: But this Examination has serv'd to no other pur<g ref="char:EOLhyphen"/>pose then to corroberate us in the Faith we have profess'd from our Infancy.</p>
+            <p>We keept our selves in silence, so long as your Majesty was en<g ref="char:EOLhyphen"/>gag'd in this toilsome War. Now that you are labouring the Peace of <hi>Europe,</hi> vouchsafe us, Sir. what we demand with all the Respect we owe Your Majesty, the Peace of our Consciences. Some im<g ref="char:EOLhyphen"/>plore your Majesty▪ to restore 'em their Wives and their Children; others demand their Fathers and their Husbands, Some pray Your Majesty, that they may be deliver'd from Cloysters, Prisons, and Barbarous Climates, where they are confin'd among Savages; o<g ref="char:EOLhyphen"/>thers to be releas'd from Chains and Oats, where they sit bound a<g ref="char:EOLhyphen"/>mong the worst of Caitiffs. Let us not be the only Persons in di<g ref="char:EOLhyphen"/>stress, to whom your Throne and Goodness are inaccessible. We beg of your Majesty, to live peaceably, as humble Subjects, and faithful to your Majesty, with Liberty to Worship God according to our Consciences. Suffer, Sir, Oh, suffer a great Number of Your Subjects, whom their Religion has constrain'd to depart Your
+<pb n="7" facs="tcp:179949:4"/> Kingdom; to return again, that they may en their Days under Your Royal Authority, and call upon God one among another as we were accustom'd to do.</p>
+            <p>Receive, Great Sir, with your wonted Goodness, this Petition, which would have been subscrib'd by several Thousands of Persons, if your Majesty would have given us Permission. Give Ear to our just Demands. We address our selves to Your Majesty, We Supplicate Your Majesty to cast your Eyes upon our Miseries, and upon the Tears which we privatly shed in our Families. Our Fidelity is known to Your Majesty; return us, Great Sir, your Protection, and the Effects of Your Goodness, and your justice, which have been tak<g ref="char:EOLhyphen"/>en from us by Surprize, and upon false Accusations, which have aggravated Your Majest's Prejudice against us. We shall pray to God, as still we do, for the Prosperity of your Reign, and of your Sacred Person, and we shall leave to our Children the same just Sen<g ref="char:EOLhyphen"/>timents of Obedience and Fidelity.</p>
+            <pb facs="tcp:179949:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
